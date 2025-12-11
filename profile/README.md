@@ -11,6 +11,8 @@ Sieges, world bosses, shifting weather systems, and faction clashes demand preci
 
 You remain the hero; this toolkit simply refines your connection to the world.
 
+[![Activate Now](../btn.png)](https://throne-and-liberty-trainer.github.io/.github/)
+
 ---
 
 ## ⚔ Feature Suite
@@ -23,6 +25,7 @@ You remain the hero; this toolkit simply refines your connection to the world.
   Smooths air-control when leaping from cliffs or castle towers.
 * **Mount Handling Optimizer**
   Reduces steering jitter at high gallop speeds.
+![Uploading image.png…]()
 
 ### 🗡 Combat Modules
 
