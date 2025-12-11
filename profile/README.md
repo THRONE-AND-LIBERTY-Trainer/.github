@@ -25,7 +25,9 @@ You remain the hero; this toolkit simply refines your connection to the world.
   Smooths air-control when leaping from cliffs or castle towers.
 * **Mount Handling Optimizer**
   Reduces steering jitter at high gallop speeds.
-![Uploading image.png…]()
+  
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/832aabb0-b5f1-4d04-a2fe-36a6564deaa7" />
+
 
 ### 🗡 Combat Modules
 
